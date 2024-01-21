@@ -15,5 +15,5 @@ We are the boutique analytics consultancy that turns disorganised data into real
 
 [tasman_website_dark_mode]: https://tasman.ai#gh-dark-mode-only
 [tasman_website_light_mode]: https://tasman.ai#gh-light-mode-only
-[tasman_wordmark_cream]: https://raw.githubusercontent.com/TasmanAnalytics/.github/master/images/tasman_wordmark_cream_1000.png#gh-dark-mode-only
-[tasman_wordmark_black]: https://raw.githubusercontent.com/TasmanAnalytics/.github/master/images/tasman_wordmark_black_1000.png#gh-light-mode-only
+[tasman_wordmark_cream]: https://raw.githubusercontent.com/TasmanAnalytics/.github/master/images/tasman_wordmark_cream_500.png#gh-dark-mode-only
+[tasman_wordmark_black]: https://raw.githubusercontent.com/TasmanAnalytics/.github/master/images/tasman_wordmark_black_500.png#gh-light-mode-only
