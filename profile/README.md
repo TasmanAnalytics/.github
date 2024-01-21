@@ -3,7 +3,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="../assets/tasman_wordmark_cream.png">
       <source media="(prefers-color-scheme: light)" srcset="../assets/tasman_wordmark_black.png">
-      <img alt="Tasman Logo" src="tasman_light.png" width='500'/>
+      <img alt="Tasman Logo" width='500'/>
     </picture>
   </a>
 </p>
