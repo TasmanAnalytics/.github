@@ -1,12 +1,5 @@
-<p align="center">
-  <a target="_blank" href="https://tasman.ai">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="../assets/tasman_wordmark_cream.png">
-      <source media="(prefers-color-scheme: light)" srcset="../assets/tasman_wordmark_black.png">
-      <img alt="Tasman Logo" width='500'/>
-    </picture>
-  </a>
-</p>
+[![tasman_logo][tasman_wordmark_black]][tasman_website]
+[![tasman_logo][tasman_wordmark_cream]][tasman_website]
 
 ---
 Welcome to the Tasman GitHub organisation 🚀
@@ -19,3 +12,7 @@ We are the boutique analytics consultancy that turns disorganised data into real
 ## Connect With Us
 
 - Follow us on [Linkedin](https://www.linkedin.com/company/tasmananalytics/)
+
+[tasman_website]: https://tasman.ai
+[tasman_wordmark_cream]: ../assets/tasman_wordmark_cream.png#gh-dark-mode-only
+[tasman_wordmark_black]: ../assets/tasman_wordmark_black.png#gh-light-mode-only
