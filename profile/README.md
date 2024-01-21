@@ -1,5 +1,5 @@
-[![tasman_logo][tasman_wordmark_black]][tasman_website]
-[![tasman_logo][tasman_wordmark_cream]][tasman_website]
+[tasman_logo][tasman_wordmark_black]
+[tasman_logo][tasman_wordmark_cream]
 
 ---
 Welcome to the Tasman GitHub organisation 🚀
